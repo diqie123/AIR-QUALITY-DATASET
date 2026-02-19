@@ -1,0 +1,6 @@
+matplotlib
+numpy
+pandas
+seaborn
+setuptools==69.5.1
+streamlit==1.53.0
